@@ -1,4 +1,4 @@
-# Live Link : https://aseverythingshop.netlify.app/
+# Live Link : https://aseverythingshop.vercel.app/
 
 
 # E-Comarce Frontend
